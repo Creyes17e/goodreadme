@@ -7,17 +7,17 @@ const generateMarkdown = require("./generateMarkdown");
 const writeFileAsync = util.promisify(fs.writeFile);
 // Array of questions for user
 const questions = [
+  {
+    type: "input",
+    message: "What is the url for the live site?",
+    name: "githubUrl",
+  },
   { type: "input", message: "What is your project title?", name: "Title" },
   {
     type: "input",
     message: "Describe your project to users:",
     name: "Description",
   },
-  // {
-  //   type: "input",
-  //   message: "Would you like to add a table of contents?",
-  //   name: "Table of Contents",
-  // },
   {
     type: "input",
     message: "What are the installation steps you took?",
@@ -47,7 +47,7 @@ const questions = [
   {
     type: "input",
     message: "Input your github username:",
-    name: "Github.Username",
+    name: "Username",
   },
   {
     type: "input",
@@ -59,16 +59,6 @@ const questions = [
 function promptUser() {
   return inquirer.prompt(questions);
 }
-// Function to write README file
-// function writeToFile(data) {
-//   var fileName = data.toLowerCase().split(" ").join("") + ".md";
-//   fs.writeFile(fileName, JSON.stringify(data, null, "\t"), function (err) {
-//     if (err) {
-//       return console.log(err);
-//     }
-//     console.log("Success!");
-//   });
-// }
 
 // Function to initialize program
 async function init() {
@@ -77,7 +67,7 @@ async function init() {
 
     const readMeInfo = generateMarkdown(userResponse);
 
-    await writeFileAsync("Test-README.md", readMeInfo);
+    await writeFileAsync("README.md", readMeInfo);
 
     console.log("Successfully wrote to README.md");
   } catch (err) {
