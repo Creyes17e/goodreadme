@@ -33,7 +33,7 @@ License:${userResponse.License}
 ${userResponse.Tests}
 
 ## Questions
-If you have any questions my github username is ${userResponse.Username} or you can reach me through email ${userResponse.Email}
+If you have any questions my github username is 'www.github.com/${userResponse.Username}' or you can reach me through email ${userResponse.Email}
 
 `;
 }
