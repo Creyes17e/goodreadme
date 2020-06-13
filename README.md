@@ -16,6 +16,8 @@ A command-line application that will allow for quick and easy generation of a pr
 - [License](#License)
 - [Tests](#Tests)
 - [Questions](#Questions)
+- [Video](#Video)
+- [Example](#Example)
 
 ## Installation
 
@@ -44,3 +46,7 @@ If you have any questions my Github Link is https://github.com/Creyes17e or you 
 ## Video (App Functionality)
 
 https://drive.google.com/file/d/1hijQHDRv9ISZ_MG79a95UPHqiMQnWUx0/view
+
+## Example (README.md)
+
+Test-README.md
