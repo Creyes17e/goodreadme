@@ -39,10 +39,16 @@ const questions = [
       "Boost Software License",
       "MIT",
       "ISC",
+      "Mozzilla Public License",
       "Microsoft Public Licence",
       "The Unlicense",
     ],
     name: "License",
+  },
+  {
+    type: "input",
+    message: "What tests did you perform (if any)?",
+    name: "Tests",
   },
   {
     type: "input",
