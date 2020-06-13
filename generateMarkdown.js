@@ -1,7 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(userResponse) {
   console.log(userResponse);
-  return `# ${userResponse.Title} -- ${userResponse.License}
+  return `# ${userResponse.Title} -- ![License](https://img.shields.io/badge/license${userResponse.License}-blue.svg)
 
 # Live Site
 ${userResponse.githubUrl}
@@ -10,12 +10,12 @@ ${userResponse.githubUrl}
 ${userResponse.Description}
 
 ## Table of Contents
-* [Installation] (#Installation)
-* [Usage] (#Usage)
-* [Credits] (#Credits)
-* [License] (#License)
-* [Tests] (#Tests)
-* [Questions] (#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
 ${userResponse.Installation}
