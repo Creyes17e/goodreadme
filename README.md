@@ -1,4 +1,4 @@
-# Good README.md -- None
+# Good README.md -- ![License](https://img.shields.io/badge/licenseThe Unlicense-blue.svg)
 
 # Live Site
 
@@ -27,15 +27,15 @@ You must clone the repo using the live site https in order for user to use on te
 
 ## Credits
 
-Activity 40 Mini Project (Bootcamp), Google Fu, Instructor's videos.
+Activity 40 Mini Project (Bootcamp), Google Fu, Instructor's videos, lukas-h(license-badges.md).
 
 ## License
 
-License:None
+License:The Unlicense
 
 ## Tests
 
-To test if this CLI App is functioning before displaying it in your README.md in the function init(), change the "README.md" to "Test-README.md", this will update the test file and will display the information that the user has inputted.
+To test if this CLI App is functioning before displaying it in your README.md in the function init(), I changed the "README.md" to "Test-README.md", this will update the test file and will display the information the user input.
 
 ## Questions
 
