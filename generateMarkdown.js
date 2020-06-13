@@ -10,12 +10,12 @@ ${userResponse.githubUrl}
 ${userResponse.Description}
 
 ## Table of Contents
-*Installation(#Installation)
-*Usage(#Usage)
-*Credits(#Credits)
-*License(#License)
-*Tests(#Tests)
-*Questions(#Questions)
+* [Installation] (#Installation)
+* [Usage] (#Usage)
+* [Credits] (#Credits)
+* [License] (#License)
+* [Tests] (#Tests)
+* [Questions] (#Questions)
 
 ## Installation
 ${userResponse.Installation}
