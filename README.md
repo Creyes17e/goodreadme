@@ -43,10 +43,11 @@ To test if this CLI App is functioning before displaying it in your README.md in
 
 If you have any questions my Github Link is https://github.com/Creyes17e or you can reach me through email cereyes1792@outlook.com
 
-## Video (App Functionality)
+## Video
 
+App Functionality
 https://drive.google.com/file/d/1hijQHDRv9ISZ_MG79a95UPHqiMQnWUx0/view
 
-## Example (README.md)
+## Example
 
 Test-README.md
