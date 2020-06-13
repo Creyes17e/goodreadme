@@ -1,4 +1,4 @@
-# Good README.md -- [![License](https://img.shields.io/badge/license-The Unlicense-blue.svg)](https://shields.io/)
+# Good README.md -- [![License](https://img.shields.io/badge/license-TheUnlicense-blue.svg)](https://shields.io/)
 
 # Live Site
 
