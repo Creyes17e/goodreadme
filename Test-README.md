@@ -1,42 +1,34 @@
-# Title of Project -- [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
+# The title of your project. -- [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
 
 # Live Site
-
-include your live site of your project
+Enter the live site for the project
 
 ## Description
-
-Description of project
+Description of your project
 
 ## Table of Contents
-
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Credits](#Credits)
-- [License](#License)
-- [Tests](#Tests)
-- [Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
-
-Installations steps you took in order to create this project
+Installation steps for project
 
 ## Usage
-
-Instructions for users
+Instructions for usage
 
 ## Credits
-
 Credits
 
 ## License
-
 License:MIT
 
 ## Tests
-
 Test-README.md
 
 ## Questions
+If you have any questions my Github Link is  https://github.com/Creyes17e or you can reach me through email Input your email, that way users may contact you if they have any issues.
 
-If you have any questions my github username is https.github.com/creyes17e or you can reach me through email Your email, so anyone who has a question about your project can contact you.
